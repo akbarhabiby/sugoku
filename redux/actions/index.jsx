@@ -1,0 +1,5 @@
+export { default as setGameBoard } from './setGameBoard'
+export { default as setLoading } from './setLoading'
+export { default as setBoxValue } from './setBoxValue'
+export { default as setSolveBoard } from './setSolveBoard'
+export { default as setTimer } from './setTimer'
